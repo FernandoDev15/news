@@ -1,2 +1,3 @@
 # news
-Power team
+* Power team
+
