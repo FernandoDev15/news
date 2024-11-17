@@ -7,3 +7,6 @@ create branch **contrib**
 
 - Ok
 ---
+* melhorar sempre
+* Aprendizado constante
+* Persistência
