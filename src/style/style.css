@@ -2,7 +2,6 @@
     --wt-r: #FFB5FF;
 }
 
-
 h1 {
     text-decoration: underline;
 }
@@ -15,8 +14,10 @@ body {
     background-color: var(--wt-r);
 }
 
-
-
 ul {
     list-style: square;
+}
+
+p, li {
+    font-size: 1.3rem;
 }
